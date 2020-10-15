@@ -9,14 +9,18 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 ## Bibliographie
 
 * « La convivialité », Ivan Illich (1973)
+* « Le mythe de la machine : Technique et développement humain », Lewis Mumford (1974)
 * « La technique et le temps », Bernard Stiegler (3 tomes de 1994 - 2001)
 * « L’âge des low tech. Vers une civilisation techniquement soutenable », Philippe Bihouix (2014)
 * « Le bonheur était pour demain : Les rêveries d'un ingénieur solitaire », Philippe Bihouix (2019)
 * « En attendant les robots. Enquête sur le travail du clic », Antonio Casilli (2019)
 * « Pour une écologie numérique », Eric Vidalenc (2019)
+* « Technopouvoir - Dépolitiser pour mieux régner », Diana Filippova (2019)
+* « L'utopie déchue - Une contre histoire d'Internet, XVè-XXIè siècle », Félix Tréguer (2019)
 * « Technologie partout, démocratie nulle part », Yaël Benayoun et Irénée Régnault (2020)
 * « La démocratie a-t-elle besoin de la science ? », Pierre Papon (2020)
 * « Contre l'alternumérisme - Pourquoi nous ne proposerons pas d'"écogestes numériques" ni de solutions pour une "démocratie numérique" », Julia Lainae et Nicolas Alep (2020)
+
 
 ## Sur la toile
 
@@ -36,6 +40,8 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * [Framasoft](https://framasoft.org/), Changer le monde, un octet à la fois. Association d’éducation populaire pour un monde numérique émancipateur
 * [Low-tech Lab](https://lowtechlab.org/) a pour mission de partager les solutions et l’esprit low-tech au plus grand nombre, afin de permettre à chacun de répondre à ses besoins de base de manière autonome et durable.
 * [Manifeste écologique des professionnel·le·s de l’informatique](https://www.climanifeste.net/)
+* [Et vous n'avez encore rien vu… Critique de la science et du scientisme ordinaire](https://sniadecki.wordpress.com/)
+* [Sciences Critiques](https://sciences-critiques.fr/)
 
 ### Articles
 
